@@ -1,0 +1,31 @@
+body{
+
+  background:linear-gradient(rgb(255, 255, 0),rgb(255,0,0));
+
+}
+
+h1,h4{
+
+  font-size: xx-large;
+  font-weight: 1000;
+  font-family: cursive;
+  background: -webkit-linear-gradient(purple, darkblue); 
+  -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+
+}
+
+#camera{
+
+    height: 400px;
+    width:500px;
+  
+}
+  
+img{
+  
+    box-shadow: 100px;
+    padding: 10px;
+    border-radius: 10%;
+
+}
